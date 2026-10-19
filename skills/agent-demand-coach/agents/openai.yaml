@@ -1,4 +1,4 @@
 interface:
   display_name: "智能体需求填写教练"
-  short_description: "引导基层运营填写智能体需求清单，并识别描述中明显的前后矛盾和逻辑错误"
+  short_description: "辅助运营填写智能体需求清单，并识别描述中明显的前后矛盾和逻辑错误"
   default_prompt: "请使用 $agent-demand-coach，引导我填写智能体需求清单，并帮我识别描述中明显的逻辑错误。"
